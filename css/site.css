@@ -1,0 +1,23 @@
+body {
+  align-items: center;
+  display: flex;
+  font-family: 'Hind', sans-serif;
+  height: 100vh;
+  justify-content: center;
+  text-align: center;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+}
+
+.container {
+  margin: 0 20px;
+}
+
+h1 {
+  font-size: 70px;
+  margin: 0;
+}
+
+p {
+  font-weight: 300;
+}
